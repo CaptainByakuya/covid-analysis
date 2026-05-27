@@ -26,7 +26,7 @@ data visualization libraries.
 - Plotly
 
 ## Dataset
-[Our World in Data COVID-19 Dataset](https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset)
+COVID-19 (coronavirus) dataset by Our World in Data (OWID] (https://www.kaggle.com/datasets/kalilurrahman/covid19-coronavirus-dataset-by-owid)
 
 ## How to Run Locally
 ```bash
